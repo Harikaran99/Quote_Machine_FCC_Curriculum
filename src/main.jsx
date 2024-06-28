@@ -1,5 +1,5 @@
 import React from 'react'
-import ParticleBackground from './components/particleBackground.jsx'
+import ParticleBackground from './components/particleBackground/particleBackground.jsx'
 import ReactDOM from 'react-dom'
 import { StyledEngineProvider } from '@mui/material'
 import App from './App.jsx'

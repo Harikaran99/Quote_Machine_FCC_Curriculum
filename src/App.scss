@@ -6,15 +6,15 @@
 #quote-box {
  z-index: 0;
  border-radius: 12px;
- width: 600px;
-//  height: 400px;
- transition: 0.5s;
+ width: 610px;
+ transition: 1s ease;
  padding: 35px;
  
 }
 
 #text {
     text-align: center;
+    
 }
 
 #quote-right {
@@ -30,4 +30,24 @@
 #author {
     text-align: right;
 }
+
+#new-quote {
+    margin-right: 60px;
+}
+
+#tweet-quote{
+    margin-right:  20px;
+    margin-left:  50px;
+}
+
+.hr {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 21px;
+    text-align: center;
+    font-weight: 400;
+}
+
 
